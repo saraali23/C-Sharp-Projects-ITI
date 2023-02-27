@@ -1,0 +1,15 @@
+D:\Kolyah\ITI\C#\Day13\Task\Task\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.deps.json
+D:\Kolyah\ITI\C#\Day13\Task\Task\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.dll
+D:\Kolyah\ITI\C#\Day13\Task\Task\BusinessLogicLayer\bin\Debug\net7.0\BusinessLogicLayer.pdb
+D:\Kolyah\ITI\C#\Day13\Task\Task\BusinessLogicLayer\bin\Debug\net7.0\DatabaseAccessLayer.dll
+D:\Kolyah\ITI\C#\Day13\Task\Task\BusinessLogicLayer\bin\Debug\net7.0\DatabaseAccessLayer.pdb
+D:\Kolyah\ITI\C#\Day13\Task\Task\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Kolyah\ITI\C#\Day13\Task\Task\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kolyah\ITI\C#\Day13\Task\Task\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Kolyah\ITI\C#\Day13\Task\Task\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\Kolyah\ITI\C#\Day13\Task\Task\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Kolyah\ITI\C#\Day13\Task\Task\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.csproj.CopyComplete
+D:\Kolyah\ITI\C#\Day13\Task\Task\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.dll
+D:\Kolyah\ITI\C#\Day13\Task\Task\BusinessLogicLayer\obj\Debug\net7.0\refint\BusinessLogicLayer.dll
+D:\Kolyah\ITI\C#\Day13\Task\Task\BusinessLogicLayer\obj\Debug\net7.0\BusinessLogicLayer.pdb
+D:\Kolyah\ITI\C#\Day13\Task\Task\BusinessLogicLayer\obj\Debug\net7.0\ref\BusinessLogicLayer.dll

@@ -1,0 +1,12 @@
+D:\Kolyah\ITI\C#\Day13\Task\Task\DatabaseAccessLayer\bin\Debug\net7.0\DatabaseAccessLayer.deps.json
+D:\Kolyah\ITI\C#\Day13\Task\Task\DatabaseAccessLayer\bin\Debug\net7.0\DatabaseAccessLayer.dll
+D:\Kolyah\ITI\C#\Day13\Task\Task\DatabaseAccessLayer\bin\Debug\net7.0\DatabaseAccessLayer.pdb
+D:\Kolyah\ITI\C#\Day13\Task\Task\DatabaseAccessLayer\obj\Debug\net7.0\DatabaseAccessLayer.csproj.AssemblyReference.cache
+D:\Kolyah\ITI\C#\Day13\Task\Task\DatabaseAccessLayer\obj\Debug\net7.0\DatabaseAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kolyah\ITI\C#\Day13\Task\Task\DatabaseAccessLayer\obj\Debug\net7.0\DatabaseAccessLayer.AssemblyInfoInputs.cache
+D:\Kolyah\ITI\C#\Day13\Task\Task\DatabaseAccessLayer\obj\Debug\net7.0\DatabaseAccessLayer.AssemblyInfo.cs
+D:\Kolyah\ITI\C#\Day13\Task\Task\DatabaseAccessLayer\obj\Debug\net7.0\DatabaseAccessLayer.csproj.CoreCompileInputs.cache
+D:\Kolyah\ITI\C#\Day13\Task\Task\DatabaseAccessLayer\obj\Debug\net7.0\DatabaseAccessLayer.dll
+D:\Kolyah\ITI\C#\Day13\Task\Task\DatabaseAccessLayer\obj\Debug\net7.0\refint\DatabaseAccessLayer.dll
+D:\Kolyah\ITI\C#\Day13\Task\Task\DatabaseAccessLayer\obj\Debug\net7.0\DatabaseAccessLayer.pdb
+D:\Kolyah\ITI\C#\Day13\Task\Task\DatabaseAccessLayer\obj\Debug\net7.0\ref\DatabaseAccessLayer.dll
